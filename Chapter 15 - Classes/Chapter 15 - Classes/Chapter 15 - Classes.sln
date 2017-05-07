@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LBD - 15.01.02 - Person Class 2", "LBD - 15.01.02 - Person Class 2\LBD - 15.01.02 - Person Class 2.vcxproj", "{158587CB-A3B1-49F6-8DEA-33A09464D9AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 15 Debugging", "Chapter 15 Debugging\Chapter 15 Debugging.vcxproj", "{7D04A22C-8FD1-4921-B63F-21A10B7296FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PE 15.13.01 - Fraction Class", "PE 15.13.01 - Fraction Clas\PE 15.13.01 - Fraction Clas.vcxproj", "{514D7542-97FB-4628-95F3-BD3AA9411F11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LBD 15.03.01 - Adding to Person2", "LBD 15.03.01 - Adding to Person2\LBD 15.03.01 - Adding to Person2.vcxproj", "{925BEF76-5D77-4D32-8EEF-480CBF3054EA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PE 15.13.02 - Deck of Cards", "PE 15.13.02 - Deck of Cards\PE 15.13.02 - Deck of Cards.vcxproj", "{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP 15.14.01 - Movie Class", "TP 15.14.01 - Movie Class\TP 15.14.01 - Movie Class.vcxproj", "{A26CF066-7822-4AAD-87CC-BF7E106805FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InLab01 - ManagerFunctions", "InLab01 - ManagerFunctions\InLab01 - ManagerFunctions.vcxproj", "{94C76381-8E9F-4EE5-9347-F62D81B3E60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Debug|x64.ActiveCfg = Debug|x64
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Debug|x64.Build.0 = Debug|x64
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Debug|x86.Build.0 = Debug|Win32
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Release|x64.ActiveCfg = Release|x64
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Release|x64.Build.0 = Release|x64
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Release|x86.ActiveCfg = Release|Win32
+		{158587CB-A3B1-49F6-8DEA-33A09464D9AE}.Release|x86.Build.0 = Release|Win32
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Debug|x64.ActiveCfg = Debug|x64
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Debug|x64.Build.0 = Debug|x64
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Debug|x86.Build.0 = Debug|Win32
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Release|x64.ActiveCfg = Release|x64
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Release|x64.Build.0 = Release|x64
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Release|x86.ActiveCfg = Release|Win32
+		{7D04A22C-8FD1-4921-B63F-21A10B7296FC}.Release|x86.Build.0 = Release|Win32
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Debug|x64.ActiveCfg = Debug|x64
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Debug|x64.Build.0 = Debug|x64
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Debug|x86.ActiveCfg = Debug|Win32
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Debug|x86.Build.0 = Debug|Win32
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Release|x64.ActiveCfg = Release|x64
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Release|x64.Build.0 = Release|x64
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Release|x86.ActiveCfg = Release|Win32
+		{514D7542-97FB-4628-95F3-BD3AA9411F11}.Release|x86.Build.0 = Release|Win32
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Debug|x64.ActiveCfg = Debug|x64
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Debug|x64.Build.0 = Debug|x64
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Debug|x86.Build.0 = Debug|Win32
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Release|x64.ActiveCfg = Release|x64
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Release|x64.Build.0 = Release|x64
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Release|x86.ActiveCfg = Release|Win32
+		{925BEF76-5D77-4D32-8EEF-480CBF3054EA}.Release|x86.Build.0 = Release|Win32
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Debug|x64.ActiveCfg = Debug|x64
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Debug|x64.Build.0 = Debug|x64
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Debug|x86.Build.0 = Debug|Win32
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Release|x64.ActiveCfg = Release|x64
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Release|x64.Build.0 = Release|x64
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Release|x86.ActiveCfg = Release|Win32
+		{CA6C63BD-1F80-4A52-A203-3A64EEC3D7AD}.Release|x86.Build.0 = Release|Win32
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Debug|x64.ActiveCfg = Debug|x64
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Debug|x64.Build.0 = Debug|x64
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Debug|x86.Build.0 = Debug|Win32
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Release|x64.ActiveCfg = Release|x64
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Release|x64.Build.0 = Release|x64
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Release|x86.ActiveCfg = Release|Win32
+		{A26CF066-7822-4AAD-87CC-BF7E106805FC}.Release|x86.Build.0 = Release|Win32
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Debug|x64.ActiveCfg = Debug|x64
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Debug|x64.Build.0 = Debug|x64
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Debug|x86.ActiveCfg = Debug|Win32
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Debug|x86.Build.0 = Debug|Win32
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Release|x64.ActiveCfg = Release|x64
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Release|x64.Build.0 = Release|x64
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Release|x86.ActiveCfg = Release|Win32
+		{94C76381-8E9F-4EE5-9347-F62D81B3E60D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cchristison.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LBD\u0020-\u002015.01.02\u0020-\u0020Person\u0020Class\u00202\\LBD\u0020-\u002015.01.02\u0020-\u0020Person\u0020Class\u00202.vcxproj
+		SccProjectName1 = LBD\u0020-\u002015.01.02\u0020-\u0020Person\u0020Class\u00202
+		SccLocalPath1 = LBD\u0020-\u002015.01.02\u0020-\u0020Person\u0020Class\u00202
+		SccProjectUniqueName2 = Chapter\u002015\u0020Debugging\\Chapter\u002015\u0020Debugging.vcxproj
+		SccProjectName2 = Chapter\u002015\u0020Debugging
+		SccLocalPath2 = Chapter\u002015\u0020Debugging
+		SccProjectUniqueName3 = PE\u002015.13.01\u0020-\u0020Fraction\u0020Clas\\PE\u002015.13.01\u0020-\u0020Fraction\u0020Clas.vcxproj
+		SccProjectName3 = PE\u002015.13.01\u0020-\u0020Fraction\u0020Clas
+		SccLocalPath3 = PE\u002015.13.01\u0020-\u0020Fraction\u0020Clas
+		SccProjectUniqueName4 = LBD\u002015.03.01\u0020-\u0020Adding\u0020to\u0020Person2\\LBD\u002015.03.01\u0020-\u0020Adding\u0020to\u0020Person2.vcxproj
+		SccProjectName4 = LBD\u002015.03.01\u0020-\u0020Adding\u0020to\u0020Person2
+		SccLocalPath4 = LBD\u002015.03.01\u0020-\u0020Adding\u0020to\u0020Person2
+		SccProjectUniqueName5 = PE\u002015.13.02\u0020-\u0020Deck\u0020of\u0020Cards\\PE\u002015.13.02\u0020-\u0020Deck\u0020of\u0020Cards.vcxproj
+		SccProjectName5 = PE\u002015.13.02\u0020-\u0020Deck\u0020of\u0020Cards
+		SccLocalPath5 = PE\u002015.13.02\u0020-\u0020Deck\u0020of\u0020Cards
+		SccProjectUniqueName6 = TP\u002015.14.01\u0020-\u0020Movie\u0020Class\\TP\u002015.14.01\u0020-\u0020Movie\u0020Class.vcxproj
+		SccProjectName6 = TP\u002015.14.01\u0020-\u0020Movie\u0020Class
+		SccLocalPath6 = TP\u002015.14.01\u0020-\u0020Movie\u0020Class
+		SccProjectUniqueName7 = InLab01\u0020-\u0020ManagerFunctions\\InLab01\u0020-\u0020ManagerFunctions.vcxproj
+		SccProjectName7 = InLab01\u0020-\u0020ManagerFunctions
+		SccLocalPath7 = InLab01\u0020-\u0020ManagerFunctions
+	EndGlobalSection
+EndGlobal

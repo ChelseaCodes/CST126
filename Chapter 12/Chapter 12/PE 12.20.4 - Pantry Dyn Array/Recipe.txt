@@ -1,0 +1,8 @@
+pounds <ground beef> 
+<Potatoes>
+1 <egg>
+sdlkjfsd <mice>
+sldkjfls <tacos>
+<seasonings>
+<Apples>
+<Oregano

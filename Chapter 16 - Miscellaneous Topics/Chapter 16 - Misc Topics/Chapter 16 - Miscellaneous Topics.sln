@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LBD 16.02 - Command Line", "LBD 16.02 - Command Line\LBD 16.02 - Command Line.vcxproj", "{AD1CACD5-9ED0-418E-9290-11BC3208D10F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LBD 16.06.01 - Recursive POW", "LBD 16.06.01 - Recursive POW\LBD 16.06.01 - Recursive POW.vcxproj", "{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LBD 16.06.03 - Recursive cString", "LBD 16.06.03 - Recursive cString\LBD 16.06.03 - Recursive cString.vcxproj", "{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Debug|x64.ActiveCfg = Debug|x64
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Debug|x64.Build.0 = Debug|x64
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Debug|x86.Build.0 = Debug|Win32
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Release|x64.ActiveCfg = Release|x64
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Release|x64.Build.0 = Release|x64
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Release|x86.ActiveCfg = Release|Win32
+		{AD1CACD5-9ED0-418E-9290-11BC3208D10F}.Release|x86.Build.0 = Release|Win32
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Debug|x64.ActiveCfg = Debug|x64
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Debug|x64.Build.0 = Debug|x64
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Debug|x86.Build.0 = Debug|Win32
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Release|x64.ActiveCfg = Release|x64
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Release|x64.Build.0 = Release|x64
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Release|x86.ActiveCfg = Release|Win32
+		{A5DA3EAF-3F0C-4391-8103-EB1B41CE7529}.Release|x86.Build.0 = Release|Win32
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Debug|x64.ActiveCfg = Debug|x64
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Debug|x64.Build.0 = Debug|x64
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Debug|x86.Build.0 = Debug|Win32
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Release|x64.ActiveCfg = Release|x64
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Release|x64.Build.0 = Release|x64
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Release|x86.ActiveCfg = Release|Win32
+		{A855C9AE-C7A7-43D7-AFB6-1DAE56FB80EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cchristison.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LBD\u002016.02\u0020-\u0020Command\u0020Line\\LBD\u002016.02\u0020-\u0020Command\u0020Line.vcxproj
+		SccProjectName1 = LBD\u002016.02\u0020-\u0020Command\u0020Line
+		SccLocalPath1 = LBD\u002016.02\u0020-\u0020Command\u0020Line
+		SccProjectUniqueName2 = LBD\u002016.06.01\u0020-\u0020Recursive\u0020POW\\LBD\u002016.06.01\u0020-\u0020Recursive\u0020POW.vcxproj
+		SccProjectName2 = LBD\u002016.06.01\u0020-\u0020Recursive\u0020POW
+		SccLocalPath2 = LBD\u002016.06.01\u0020-\u0020Recursive\u0020POW
+		SccProjectUniqueName3 = LBD\u002016.06.03\u0020-\u0020Recursive\u0020cString\\LBD\u002016.06.03\u0020-\u0020Recursive\u0020cString.vcxproj
+		SccProjectName3 = LBD\u002016.06.03\u0020-\u0020Recursive\u0020cString
+		SccLocalPath3 = LBD\u002016.06.03\u0020-\u0020Recursive\u0020cString
+	EndGlobalSection
+EndGlobal
